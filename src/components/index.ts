@@ -1,0 +1,11 @@
+// Components barrel export
+export { Header }                         from './Header'
+export { Footer }                         from './Footer'
+export { SceneBackground }                from './SceneBackground'
+export { IntroOverlay, IntroSkipButton }  from './IntroOverlay'
+export { EditorialPortrait }              from './EditorialPortrait'
+export { ProjectDetailModal }             from './ProjectDetailModal'
+export { ProjectDetailOverlay }           from './ProjectDetailOverlay'
+export { PortfolioTerminal }              from './PortfolioTerminal'
+export { CustomCursor, Magnetic }         from './CustomCursor'
+export * from './ui'

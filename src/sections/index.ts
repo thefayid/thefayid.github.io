@@ -1,0 +1,10 @@
+// Sections barrel export
+export { Hero }        from './Hero'
+export { Work }        from './Work'
+export { About }       from './About'
+export { Skills }      from './Skills'
+export { Process }     from './Process'
+export { Experience }  from './Experience'
+export { Labs }        from './Labs'
+export { Credentials } from './Credentials'
+export { Contact }     from './Contact'
